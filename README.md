@@ -1,7 +1,9 @@
 ## Olá!! Sou o Cris.
 ### Sou analista de testes (manuais e automatizados) e um entusiasta do desenvolvimetno WEB.
 <br>
-
+Pensando em englobar meus conhecimentos em desenvolvimento WEB e minha paixão por qualidade de software, desenvolvi (e ainda continuo desenvolvendo) meu próprio sistema de gerador de massa de dados. Dê uma conferida <a href = "https://cristhofer-qa.github.io/Massa-de-Dados/" target = "_blank"> clicando aqui </a>
+<br>
+<br>
 <div>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Cristhofer-QA&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhofer-QA&layout=compact">
