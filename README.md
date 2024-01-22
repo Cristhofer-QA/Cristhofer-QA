@@ -1,7 +1,7 @@
 ## Olá!! Sou o Cris.
 ### Sou analista de testes (manuais e automatizados) e um entusiasta do desenvolvimetno WEB.
 <br>
-Pensando em englobar meus conhecimentos em desenvolvimento WEB e minha paixão por qualidade de software, desenvolvi (e ainda continuo desenvolvendo) meu próprio sistema de gerador de massa de dados. Dê uma conferida <a href = "https://cristhofer-qa.github.io/Massa-de-Dados/" target = "_blank"> clicando aqui </a>
+Pensando em englobar meus conhecimentos em desenvolvimento WEB e minha paixão por qualidade de software, desenvolvi (e ainda continuo desenvolvendo) meu próprio sistema de gerador de massa de dados. Dê uma conferida <a href = "https://cristhofer-qa.github.io/Massa-de-Dados/" target="_blank"> clicando aqui </a>
 <br>
 <br>
 <div>
