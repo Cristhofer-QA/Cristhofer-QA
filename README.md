@@ -19,12 +19,6 @@ QA Engineer com foco em automação de testes e qualidade ponta a ponta.
 🔹 [Gerador de Massa de Dados](https://cristhofer-qa.github.io/Massa-de-Dados/)  
 Ferramenta desenvolvida para auxiliar na criação de dados para testes, facilitando cenários variados e validações.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cristhofer-QA&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhofer-QA&layout=compact&theme=dracula"/>
-</div>
-
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/cristhofer-mian-6a7894175/
 - Email: cristhofermian.qa@gmail.com
